@@ -1,0 +1,55 @@
+h1 {
+    color: blue;                                                                                                                                                                        
+}
+
+.cuadrado {
+    border: 19px solid black;
+    width: 5em;
+    height: 5em;
+}
+
+.rojo {
+    background-color: red;
+}
+
+.img {
+    width: 5em;
+}
+.verde {
+    background-color: green;
+}
+
+.titulo { color: green }
+
+.form {
+    background-color: purple;
+    padding: 20px;
+    border-radius: 5px;
+    width: 300px;
+    margin: 0 auto;
+    
+}
+
+.contenedor {
+    background-color: yellow;
+    padding: 20px;
+    border-radius: 5px;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.tarjetita {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2 rem;
+    padding: 100px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.tarjetita img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
