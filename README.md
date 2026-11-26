@@ -1,2 +1,2 @@
-# DOM-Actividades
+# DOM - Actividades
 Las actividades de DOM
